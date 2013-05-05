@@ -1,0 +1,3 @@
+--color
+--format progress
+-r support/spec_helper
