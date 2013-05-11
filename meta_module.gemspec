@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = MetaModule::VERSION
   spec.authors       = ["Alexander K"]
   spec.email         = ["xpyro@ya.ru"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = %q{ few things around module subclassing }.strip
+  spec.summary       = spec.description #%q{TODO: Write a gem summary}
+  spec.homepage      = "https://github.com/sowcow/meta_module"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
